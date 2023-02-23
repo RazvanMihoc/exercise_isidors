@@ -1,3 +1,7 @@
 text in b1
 
+
 more text in b1
+
+
+added text after merge
